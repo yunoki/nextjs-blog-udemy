@@ -27,9 +27,7 @@ export default function Home({allPostData}) {
       </Head>
       <section className={utilStyle.headingMd}>
         <p>
-        「ラフ×ラフ オフィシャルサイト」は、ラフ×ラフの公式サイト兼ファンクラブサイトとなります。
-ニュースや活動スケジュール、楽曲やミュージックビデオのリリース、公式YouTubeチャンネルに関してなど、
-ラフ×ラフの最新情報をいち早くお届けします。
+        いち早くお届けします。
         </p>
       </section>
     <section>
